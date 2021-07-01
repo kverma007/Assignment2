@@ -1,0 +1,11 @@
+.one {
+    height: 400px;
+    width: 1000px;
+    background-color: red;
+}
+
+.one_child {
+    height: 200px;
+    width: 400px;
+    background-color: yellow;
+}
